@@ -1,4 +1,4 @@
-# Eldritch Clock App (Alpha)
+# Eldritch Clock App for MacOS (Alpha)
 
 ![](demo.gif)
 
